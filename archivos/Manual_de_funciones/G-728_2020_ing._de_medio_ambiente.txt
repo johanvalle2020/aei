@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-22T11:21:27-05:00
+
+====== G-728 2020 ing. de medio ambiente ======
+Created viernes 22 mayo 2020
+
+-------------------------------------------------------------------------------------------
+**MANUAL DE FUNCIONES** 
+Título: FUNCIONES DEL INGENIERO DE SEGURIDAD, SALUD OCUPACIONAL Y MEDIO AMBIENTE
+Rev: 02
+Emitido por: G/Ing. Raúl Alvarado C.
+Aprobado por: 
+Fecha: 18/04/20
+--------------------------------------------------------------------------------------------- 
+
+
+1. **Misión del Puesto:**
+Controlar las actividades de seguridad industrial e higiene ocupacional, estableciendo las políticas y normas, desarrollando planes y programas, supervisando la ejecución de los procesos técnicos-administrativos que conforman el área, a fin de garantizar la eficacia y la eficiencia de las operaciones de prevención de accidentes y/o enfermedades ocupacionales en el ámbito de la Institución, de acuerdo a las disposiciones y principios emanados por los entes reguladores de la materia.
+
+2. **Línea de Dependencia:**
+Reporta a la Jefatura de SSOMA (GSS)
+Supervisa a las diferentes Área y a sus dependientes directos según el Organigrama vigente.
+
+3. **Funciones Generales:**
+- Asistir y Asesorar en la aplicación de estándares y procedimientos de
+- Seguridad y Salud Ocupacional y realizar auditorías al sistema de forma periódica.
+- Efectuar la evaluación del Sistema de gestión de seguridad y monitorear constantemente a fin de replantear medidas preventivas.
+- Asesorar acciones para minimizar los riesgos en las diferentes áreas mediante la aplicación del Sistema de Gestión de SSOMA.
+- Informar a la supervisión guardia entrante de Seguridad y Salud
+- Ocupacional sobre los acontecimientos en su guardia.
+- Apoyar y conducir entrenamiento en Seguridad y Salud Ocupacional.
+- Elaborar y verificar el estricto cumplimiento de la matriz de capacitación mensual Y Programa de SSOMA
+
+4. **Funciones Específicas:**
+- Presentarse en el escenario de la ocurrencia de un accidente de inmediato e informar sobre lo ocurrido.AEI S.R.L.
+- Revisar las condiciones físicas de las áreas de trabajo durante sus inspecciones de campo al menos dos veces al día con la finalidad de verificar el cumplimiento de los - - Procedimientos de Seguridad y Salud Ocupacional.
+- Verificar in situ el cumplimiento de los Permisos de Trabajo (espacios confinados, Trabajos. en caliente, etc) y firmar los que le corresponda, así como la información y eventos con el servicios médicos al inicio y final de su guardia.
+- Llevar registro de los índices de seguridad
+- Actualizar el plano del mapa de riesgos
+- Dictar diariamente las Charlas de 5 minutos.
+
+5. **Lista de Distribución:**
+G, GC, GO, GT, GA, GAT, GSS, GSA, GCV, GOT, GOL, GTI, GTX, GTQ, GAAP.

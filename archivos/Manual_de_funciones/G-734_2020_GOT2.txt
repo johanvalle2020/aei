@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-22T11:44:01-05:00
+
+====== G-734 2020 GOT2 ======
+Created viernes 22 mayo 2020
+
+-------------------------------------------------------------------------------------------
+**MANUAL DE FUNCIONES** 
+Título: FUNCIONES DEL JEFE DE LA SECCIÓN BOBINADO (GOT2)
+Rev: 01
+Emitido por: G/Ing. Raúl Alvarado C.
+Aprobado por: 
+Fecha: 24/04/20
+--------------------------------------------------------------------------------------------- 
+
+1. **Misión del Puesto:**
+Realizar las diversas tareas relacionadas a la fabricación y reparación de bobinas de máquinas eléctricas. Asignar, supervisar y controlar los trabajos a ejecutar en la sección a su cargo de acuerdo a los programas de producción recibidos de GOTP y las instrucciones técnicas emitidas por GTI y controlar a su personal. Cuidar los equipos y herramientas de la empresa asignados a su sección.
+
+2. **Línea de Dependencia:**
+Reporta a: Jefe del Departamento de Taller (GOT)
+Supervisa a: Personal asignado a la Sección Bobinado
+Reemplazado por: Personal designado.
+
+3. **Funciones Generales:**
+- Conocer mediante los programas emitidos por GOTP todas las órdenes de Taller a ser procesadas en la Sección a su cargo.
+- Dirigir el desmontaje de bobinas de las máquinas tomando las previsiones de seguridad necesarias para el personal y las instalaciones. Almacenar en forma segura las partes.
+- Dirigir los trabajos de Bobinado (limpieza, forrado, fabricación de aislantes, etc.) y las labores manuales a cargo de los Técnicos a su cargo, vigilando el cumplimiento de los tiempos preasignados a las tareas y el empleo eficiente de la mano de obra.
+- Proponer a GOT la contratación del personal requerido, para atender los requerimientos de su Sección, acorde al presupuesto anual aprobado.
+- Proponer a GOT, los requerimientos de equipos y otros para el mejor cumplimiento de sus funciones, incluyendo el plan de inversiones.
+- Vigilar y asegurar el empleo correcto de los activos de la empresa, en las diferentes etapas del proceso productivo.
+- Cumplir y hacer cumplir los reglamentos Interno de Trabajo y de
+- Seguridad e Higiene Industrial de la empresa.
+
+4. **Funciones Específicas:**
+- Proponer a GOT, GTI y GTQ la emisión de los Procedimientos e Instrucciones Administrativas, Técnicas y de Calidad, necesarias para el normal y eficiente desarrollo de las actividades en su Sección.
+- Supervisar la correcta ejecución de los trabajos y el cumplimiento de las normas de seguridad.
+- Coordinar permanentemente con GOTP y los Supervisores del Taller, para el cumplimiento eficiente de su función e informar a GOT de las incidencias importantes que afecten el desarrollo de las actividades a su cargo.
+- Mantener instruido a su personal respecto a las exigencias de seguridad necesarias para la realización de los trabajos y otras tareas dentro del área a su cargo. Vigilar el uso de los implementos de seguridad necesarios.
+- Desempeñar otras responsabilidades que se le asigne dentro del ámbito de su competencia funcional.
+- Vigilar el uso de la vestimenta y EPPs asignados a su personal.
+- Cumplir y hacer cumplir el Reglamento Interno de Trabajo y el de Seguridad e Higiene Industrial.
+
+5. **Lista de Distribución:**
+G, GO, GC, GT, GC, GA, GAT, GOT, GOL, GOTP, GSA, GSS, GTI, GTX, GTQ, GTQS, GAAP.

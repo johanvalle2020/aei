@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-22T11:29:06-05:00
+
+====== G-729 2020 TEC MECANICO ======
+Created viernes 22 mayo 2020
+
+-------------------------------------------------------------------------------------------
+**MANUAL DE FUNCIONES** 
+Título: FUNCIONES DEL TECNICO MECANICO INDUSTRIAL
+Rev: 02
+Emitido por: G/Ing. Raúl Alvarado C.
+Aprobado por: 
+Fecha: 18/04/20
+--------------------------------------------------------------------------------------------- 
+
+1. **Misión del Puesto:**
+El Técnico Mecánico Industrial desarrolla sus actividades de fabricación y mantenimiento, ejecutando las soluciones previstas en la construcción, reparación y mantenimiento de las máquinas consignadas en las OT y OS Confirmadas y equipos mecánicos que integran los equipamientos productivos.
+
+2. **Línea de Dependencia:**
+Reporta a: la Jefatura de la Sección Mecánica o de Servicios Externos que corresponda.
+Reemplazado por: Técnico designado.
+
+3. **Funciones Generales:**
+- Ejecuta el mantenimiento preventivo y correctivo básico, en sistemas mecánicos, hidráulicos, neumáticos, electromecánicos y electroneumáticos de máquinas en general.
+- Desmonta total o parcialmente máquinas o equipos, interpretando planos y catálogos para su mantenimiento/reparación.
+- Repara o sustituye elementos o partes defectuosas de máquinas y equipos.
+- Efectúa ajustes y verifica el resultado de trabajos realizados.
+- Realiza inspecciones de máquinas y equipos, así como mediciones y registro de resultados.
+- Interpreta planos y esquemas técnicos e informaciones especializados, según normas y especificaciones.
+- Aplica normas técnicas de calidad y seguridad industrial/ambiental.
+
+4. **Funciones Específicas:**
+- Realiza inspecciones de máquinas y equipos, así como mediciones y registro de resultados.
+- Interpreta planos y esquemas técnicos e informaciones especializadas, según normas y especificaciones.
+- Ejecuta las acciones pertinentes para cumplir el objeto de la OT y OS que se le asignan.
+- Aplica normas técnicas de calidad y seguridad industrial/ambiental.
+- Mantiene en orden equipo y sitio de trabajo, reportando cualquier anomalía.
+- Elabora informes periódicos de las actividades realizadas.
+- Realiza cualquier otra tarea afín que le sea asignada.
+- Cuida de los instrumentos y herramientas a su cargo.
+
+5. **Lista de Distribución:**
+G, GC, GO, GT, GA, GAT, GSA, GSS, GOT, GOTP, GOT1, GSAT, GTI, GTX, GTQ, GAAP.

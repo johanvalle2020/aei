@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-22T11:43:51-05:00
+
+====== G-733 2020 ASIST. ALAMACEN ======
+Created viernes 22 mayo 2020
+
+-------------------------------------------------------------------------------------------
+**MANUAL DE FUNCIONES** 
+Título: FUNCIONES DEL ASISTENTE DE ALMACEN
+Rev: 01
+Emitido por: G/Ing. Raúl Alvarado C.
+Aprobado por: 
+Fecha: 24/04/20
+--------------------------------------------------------------------------------------------- 
+
+
+1. **Misión del Puesto:**
+Ejecutar las labores de recepción, almacenamiento y despacho de las mercaderías, materias primas, accesorios, productos terminados y similares en el Almacén de la Empresa.
+
+2. **Línea de Dependencia:**
+Reporta a: Jefe de Almacén (GOLA)
+Reemplazado por: Personal designado.
+
+3. **Funciones Generales:**
+- Efectuar el proceso de recepción de las mercaderías, materias primas, accesorios u otros adquiridos por la Empresa para la atención de sus necesidades de abastecimiento y de producción.
+- Efectuar el proceso de recepción de los productos terminados al final del proceso productivo y almacenarlos en el área dispuesta para tal fin hasta su despacho.
+- Recepcionar las máquinas remitidas para evaluación, reparación, mantenimiento o atención de reclamos en garantía. Codificar y registrar adecuadamente todos los ingresos al Almacén.
+- Mantener el Almacén debidamente ordenado, y asegurar la correcta conservación y manipuleo de los materiales en todas las áreas de almacenamiento a su cargo.
+- Participar en las tomas de inventarios programadas por GA.
+- Implementar las recomendaciones para la mejora de su actividad.
+- Cumplir los Reglamentos Internos de Trabajo y de Seguridad e Higiene Industrial de la Empresa.
+- Desempeñar otras responsabilidades que se le asigne dentro del ámbito de su competencia funcional.
+
+4. **Funciones Específicas:**
+- Actualización diaria del Sistema de Control de Inventarios.
+- Control de la documentación de ingreso y salida de artículos del Almacén.
+- Entregar documentaria y físicamente a la Jefatura del Taller y a la Sección correspondiente los equipos recepcionados para evaluación, reparación o servicio.
+- Organizar y distribuir el despacho oportuno de materiales principales y auxiliares.
+- Disponer y asegurar el adecuado almacenamiento de los implementos de seguridad y herramientas.
+- Realizar el despacho de Productos terminados en coordinación con GCS, hasta la entrega al transportista y firma de recepción de la guía de despacho.
+- Mantener las condiciones de limpieza y protección de los materiales almacenados a fin de evitar su deterioro. Proponer e implementar las medidas convenientes para este fin
+
+5. **Lista de Distribución:**
+G, GC, GO, GT, GA, GCS, GSA, GSS, GOT,GOL, GOTP, GOLA, GTX, GTQ, GOT1, GOT2, GOT3, GAAP.

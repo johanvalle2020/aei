@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-21T17:10:53-05:00
+
+====== G-721 2020 GTXR ======
+Created jueves 21 mayo 2020
+
+-------------------------------------------------------------------------------------------
+**MANUAL DE FUNCIONES** 
+Título: FUNCIONES DEL JEFE DE LA SECCION SERVICIOS EXTERNOS DE MAQUINAS ROTATIVAS (GTXR)
+Rev: 062
+Emitido por: G/Ing. Raúl Alvarado C.
+Aprobado por: 
+Fecha: 14/04/20
+--------------------------------------------------------------------------------------------- 
+1. **Misión del Puesto:**
+Organizar, dirigir, supervisar y realizar las actividades relacionadas al Servicio en Campo que la empresa brinda a Máquinas Rotativas.
+Asimismo deberá coordinar adecuadamente con Técnica y Logística, a fin de asegurar la ejecución oportuna de los servicios de Terceros requeridos para el cumplimiento de las órdenes a su cargo.
+
+2. **Línea de Dependencia:**
+Reporta a: Jefe del Departamento de Servicios Externos (GTX)
+Supervisa a: Personal de Técnicos Mecánicos y Electricistas asignado.
+Reemplazado por: Funcionario designado.
+
+3. **Funciones Generales:**
+- Establecer planes de trabajo específicos con sus correspondientes cronogramas a fin de cumplir oportunamente con las metas del Servicio.
+- Realizar el Seguimiento de los Programas de Trabajo, coordinando con la jefatura correspondiente las acciones a tomar para asegurar su cumplimiento.
+- Proponer, desarrollar y actualizar instrucciones técnicas, supervisando su adecuada aplicación.
+- Verificar la realización de los controles que sea necesario efectuar al desarrollo del servicio.
+
+4. **Funciones Específicas:**
+- Supervisar las actividades del Servicio.
+- Recepcionar las confirmaciones de las órdenes de trabajo y elaborar los Programas de Trabajo correspondientes, con la periodicidad establecida.
+- Programar la carga de trabajo para los diferentes grupos. 
+- Administrar el trabajo extraordinario, proponiendo los cambios de jornada que convengan al cumplimiento de los programas.
+- Coordinar con otras áreas de la Empresa a fin de recibir oportuna y adecuadamente la información necesaria para el eficiente cumplimiento de su función.
+- Emitir las listas de Entrega y Cierre de las órdenes terminadas.
+- Asegurar el abastecimiento de materiales y servicios para las órdenes en ejecución (Solicitud oportuna y seguimiento constante a las OC).
+- Emitir informes según lo requerido por la Jefatura de Departamento.
+- Desempeñar otras responsabilidades que se le asigne dentro del ámbito de su competencia funcional.
+- Cumplir y hacer cumplir el Reglamento Interno de Trabajo y el de Seguridad e Higiene Industrial.
+
+5. **Lista de Distribución:**
+G, GC, GO, GT, GA, GAT, GSA, GSS, GCV, GCS, GOL, GOT, GTI, GTX, GTQ, GACC, GACK, GAFF, GAAP.

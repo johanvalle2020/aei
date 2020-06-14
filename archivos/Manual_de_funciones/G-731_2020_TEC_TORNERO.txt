@@ -1,0 +1,48 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-22T11:29:24-05:00
+
+====== G-731 2020 TEC TORNERO ======
+Created viernes 22 mayo 2020
+
+-------------------------------------------------------------------------------------------
+**MANUAL DE FUNCIONES** 
+Título: FUNCIONES DEL TECNICO EN MAESTRANZA (TORNERO)
+Rev: 01
+Emitido por: G/Ing. Raúl Alvarado C.
+Aprobado por: 
+Fecha: 18/04/20
+--------------------------------------------------------------------------------------------- 
+
+
+1. **Misión del Puesto:**
+Fabricar piezas mecánicas, mediante el uso de máquina fresadora, tornos y otros, para garantizar el óptimo funcionamiento de las piezas requeridas para los aparatos y equipos de las OT asignadas.
+
+2. **Línea de Dependencia:**
+Reporta a: la Jefatura de Mecánica (GOT1).
+Reemplazado por: Funcionario designado.
+
+3. **Funciones Generales:**
+- Lee e interpreta ilustraciones, diseños, diagramas, croquis y planos.
+- Rectifica las piezas y componentes mecánicos necesarios para los equipos de acuerdo a las especificaciones indicadas.
+- Realiza el mantenimiento y reparación de las máquinas, con el fin de mantener y garantizar el buen funcionamiento de las mismas.
+- Pule, taladra, ajusta y da forma a piezas en diferentes tipos de materiales.
+- Fabrica piezas cilíndricas, radiales, concéntricas y excéntricas y toda clase de roscas, dentro de las tolerancias mínimas.
+- Hace orificios y canales en el material según lo requiere el caso.
+- Efectúa trabajos de frisado y revestimiento de superficies con diferentes materiales.
+- Efectúa ajustes y verifica el resultado de trabajos realizados.
+- Realiza inspecciones de máquinas y equipos, así como mediciones y registro de resultados.
+- Interpreta planos y esquemas técnicos e informaciones especializadas, según normas y especificaciones.
+- Aplica normas técnicas de calidad y seguridad industrial/ambiental.
+
+4. **Funciones Específicas:**
+- Fabrica partes mecánicas de acuerdo a las especificaciones indicadas por su superior.
+- Elabora reportes periódicos de las tareas asignadas. Mantiene limpio y en orden equipos y sitio de trabajo.
+- Cumple con las normas y procedimientos en materia de seguridad ntegral establecidos por la Organización.
+- Mantiene en orden equipo y sitio de trabajo, reportando cualquier anomalía.
+- Elabora informes periódicos de las actividades realizadas.
+- Realiza cualquier otra tarea afín que le sea asignada.
+- Cuida de los instrumentos y herramientas a su cargo.
+
+5. **Lista de Distribución:**
+G, GC, GO, GT, GA, GAT, GOL, GOTP, GOT1, GSA, GSS,GSAT, GTI, GTX, GTQ, GAAP.

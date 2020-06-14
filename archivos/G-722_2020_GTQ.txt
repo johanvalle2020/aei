@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-21T17:11:51-05:00
+
+====== G-722 2020 ======
+Created jueves 21 mayo 2020
+
+
+-------------------------------------------------------------------------------------------
+**MANUAL DE FUNCIONES** 
+Título: FUNCIONES DEL JEFE DEL DEPARTAMENTO DECONTROL DE CALIDAD (GTQ)
+Rev: 02
+Emitido por: G/Ing. Raúl Alvarado C.
+Aprobado por: 
+Fecha: 14/04/20
+--------------------------------------------------------------------------------------------- 
+
+1. **Misión del Puesto:**
+Garantizar que los servicios ofrecidos por la Empresa cumplan las especificaciones técnicas y los estándares de calidad preestablecidos, mediante el control de: materiales adquiridos, proceso de reparación y mantenimiento y pruebas finales.
+
+2. **Línea de Dependencia:**
+Reporta a: Gerente Técnico (GT).
+Supervisa a: Jefes de las Salas de Pruebas y de Control de Calidad .
+Reemplazado por: Jefe de la Sección Ingeniería(GTI).
+
+3. **Funciones Generales:**
+- Establecer los criterios y parámetros para evaluar la calidad en los materiales y componentes adquiridos, el proceso de producción y los productos terminados.
+- Supervisar la ejecución de los controles establecidos para los materiales y componentes, el proceso de reparación y los productos terminados.
+- Documentar las no conformidades según lo establecido por el sistema de calidad de la Empresa.
+- Emitir informes y documentación relativa al Control de Calidad.
+- Aportar opiniones para mejorar la calidad de los productos y servicios ofrecidos por la Empresa.
+- Cumplir y hacer cumplir los Reglamentos Interno de Trabajo y de Seguridad e Higiene Industria de la Empresa.AEI S.R.L.
+
+4. **Funciones Específicas:**
+- Coordinar con la Sección Planeamiento (GOTP) lo conveniente para la realización eficiente de los controles prescritos a los materiales y componentes así como durante el proceso en el Taller.
+- Planificar adecuadamente los Recursos Humanos y materiales de su departamento, en base a los presupuestos anuales de producción.
+- Establecer tiempos estándar para las diferentes tareas de control realizadas por su personal a fin de permitir el costeo de la función de calidad a nivel de precálculo y controlar la realización de las mismas.
+- Analizar los registros de calidad a fin de determinar las causas de las no conformidades e iniciar las acciones correctivas correspondientes.
+- Redactar los “Informes de Falla”, copia de los cuales será remitida a G para conocimiento y decisión.
+- Solicitar en coordinación con la Oficina de Compras (GOLC), los Certificados de Calidad de los proveedores, relativos a los materiales y componentes adquiridos por la Empresa.
+- Vigilar el uso de la vestimenta y los elementos de protección por parte de su personal, así como el estricto cumplimiento de lasnormas de seguridad, durante la realización de pruebas eléctricas y los procesos de control.
+- Propugnar la capacitación técnica del personal de su área.
+
+5. **Lista de Distribución:**
+G, GC, GT, GO, GA, GAT, GTQ, GTX, GTI, GTS, GCV, GCPP, GCS, GOT, GOL, GSA, GSS, GAC, GAFF, GTQS, GSAQ, GAAP.

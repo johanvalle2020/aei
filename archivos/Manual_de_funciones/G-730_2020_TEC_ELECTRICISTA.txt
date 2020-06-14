@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-22T11:29:16-05:00
+
+====== G-730 2020 TEC ELECTRICISTA ======
+Created viernes 22 mayo 2020
+
+-------------------------------------------------------------------------------------------
+**MANUAL DE FUNCIONES** 
+Título: FUNCIONES DEL TECNICO ELECTRICISTA INDUSTRIAL
+Rev: 02
+Emitido por: G/Ing. Raúl Alvarado C.
+Aprobado por: 
+Fecha: 18/04/20
+--------------------------------------------------------------------------------------------- 
+
+1. **Misión del Puesto:**
+El Técnico Electricista Industrial desarrolla sus actividades de fabricación y mantenimiento, ejecutando las soluciones previstas en la construcción, reparación y mantenimiento de las máquinas consignadas en las OT y OS Confirmadas y equipos eléctricos que integran los equipamientos productivos. Mantener en condiciones operativas los equipos y artefactos eléctricos de la unidad y de otras dependencias que lo requieran.
+
+2. **Línea de Dependencia:**
+Reporta a: la Jefatura de Sección correspondiente: GOT1, GTQS, GTXT, GTXR, GSAQ, GSAT.
+Reemplazado por: Técnico designado.
+
+3. **Funciones Generales:**
+- Instala mantiene y repara máquinas rotativas (motores y generadores eléctricos), transformadores, aparatos y equipamiento eléctrico de subestaciones.
+- Desmonta total o parcialmente máquinas o equipos, interpretando planos y catálogos para su mantenimiento/reparación.
+- Repara o sustituye elementos o partes defectuosas de máquinas y equipos.
+- Determina los parámetros eléctricos que corresponden a las máquinas que interviene.
+- Chequea las condiciones eléctricas de equipos y artefactos 
+- Interpreta planos y esquemas técnicos e informaciones especializados, según normas y especificaciones.
+- Aplica normas técnicas de calidad y seguridad industrial/ambiental.
+
+
+4. **Funciones Específicas:**
+- Realiza inspecciones de máquinas y equipos, así como mediciones y registro de resultados.
+- Interpreta planos y esquemas técnicos e informaciones especializadas, según normas y especificaciones.
+- Aplica normas técnicas de calidad y seguridad industrial/ambiental.
+- Instala controles para motores eléctricos.
+- Realiza mantenimiento y reparaciones de equipos en las áreas que lo requieran.
+- Cumple con las normas y procedimientos en materia de seguridad integral, establecidos por la organización.
+- Mantiene en orden equipo y sitio de trabajo, reportando cualquier anomalía.
+- Elabora informes periódicos de las actividades realizadas.
+- Realiza cualquier otra tarea afín que le sea asignada.
+
+5. **Lista de Distribución:**
+G, GC, GO, GT, GA, GAT, GOL, GOT, GOTP, GSA, GSS, GTI, GTX, GTQ, GTQS, GAAP.

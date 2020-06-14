@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-22T11:59:51-05:00
+
+====== G-737 2020 GCPP ======
+Created viernes 22 mayo 2020
+
+
+-------------------------------------------------------------------------------------------
+**MANUAL DE FUNCIONES** 
+Título: FUNCIONES DEL JEFE DE LA OFICINA DE PRESUPUESTOS (GCPP)
+Rev: 00
+Emitido por: G/Ing. Raúl Alvarado C.
+Aprobado por: 
+Fecha: 25/04/20
+--------------------------------------------------------------------------------------------- 
+
+1. **Misión del Puesto:**
+Organizar, realizar y supervisar la elaboración de los presupuestos para todas las ofertas que se elaboran en la Empresa, de modo que se satisfagan los requerimientos del cliente y las expectativas de la empresa.
+Planear, realizar y controlar las actividades de elaboración de Precálculos en la empresa, considerando los presupuestos de mano de obra, materiales y servicios de terceros proveídos por GTI, GOT, GTX y GOLC para cada caso y utilizarlos de acuerdo a lo prescrito en la Directiva de elaboración de Precálculos, emitiendo los reportes necesarios para la toma de decisiones comerciales.
+
+2. **Línea de Dependencia:**
+Reporta a: Gerencia Comercial (GC)
+Supervisa a: Personal asignado.
+Reemplazado por: Funcionario designado.
+
+3. **Funciones Generales:**
+- Elaborar los Precálculos en los plazos fijados y en concordancia con los lineamientos comerciales y económicos establecidos por la Gerencia Comercial.
+- Coordinar adecuadamente con todos los Ejecutivos de Venta de la Empresa de modo de modo de atender oportunamente su requerimientos para la elaboración de ofertas.
+- Coordinar adecuadamente con GOT, GTI, GTX y GOLC a fin de elaborar las bases de datos que requerirá para el cumplimiento de su función.
+- Coordinar con otras áreas de la Empresa a fin de recibir oportuna y adecuadamente la información necesaria para el eficiente cumplimiento de su función, garantizando las condiciones mas convenientes de precio y plazos de entrega.
+- Emitir informes según lo requerido por la Gerencia Comercial.
+
+
+4. **Funciones Específicas:**
+- Controlar los elementos de costo comunicados por GTO, GTI y GTX mediante un control estadístico de los mismos, a fin de asegurar la eficaz participación de la empresa en Licitaciones y Concursos Públicos y Privados.
+- Coordinar con la Gerencia Técnica, a fin de que su personal reciba el adecuado soporte técnico para el cumplimiento de sus funciones.
+- Coordinar con el Jefe de la Sucursal de Arequipa, a fin de apoyar
+eficientemente las actividades comerciales a desarrollarse en dicha ciudad.
+- Elaborar informes respecto a los temas de responsabilidad de su cargo.
+- Desempeñar otras responsabilidades que se le asigne dentro del ámbito de su competencia funcional.
+- Cumplir y hacer cumplir el Reglamento Interno de Trabajo y el de Seguridad e Higiene Industrial.
+
+5. **Lista de Distribución:**
+G, GO, GT, GC, GA, GAT, GCV, GCS, GOL, GOT, GSA, GSS, GTI, GTX, GTQ, GAC, GAA, GAAP.

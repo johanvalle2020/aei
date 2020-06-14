@@ -1,0 +1,52 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-22T11:59:13-05:00
+
+====== G-736 2020 JEFE SSOMA ======
+Created viernes 22 mayo 2020
+
+-------------------------------------------------------------------------------------------
+**MANUAL DE FUNCIONES** 
+Título: FUNCIONES DEL JEFE DEL DPTO. DE SEGURIDAD, SALUD OCUPACIONAL Y MEDIO AMBIENTE (SSOMA)
+Rev: 00
+Emitido por: G/Ing. Raúl Alvarado C.
+Aprobado por: 
+Fecha: 25/04/20
+--------------------------------------------------------------------------------------------- 
+
+1. **Misión del Puesto:**
+Asesorar, dirigir y controlar las actividades de prevención en materia de seguridad industrial, salud ocupacional y medio ambiental en la empresa, estableciendo políticas y normas, desarrollando planes y programas y supervisando la implementación de medidas de prevención de SSOMA en la ejecución de los procesos técnicos-administrativos de la empresa, a fin de garantizar la eficacia y la eficiencia de las acciones de prevención de accidentes y/o enfermedades ocupacionales en el ámbito de la organización, de acuerdo a las disposiciones y principios normados por los entes oficiales correspondientes y acorde a la naturaleza de la empresa.
+
+2. **Línea de Dependencia:**
+Reporta a la Gerencia General (G)
+Supervisa a las diferentes Área y a sus dependientes directos según el Organigrama vigente.
+
+3. **Funciones Generales:**
+- Asesorar y dirigir la implementación de estándares y procedimientos de Seguridad, Salud Ocupacional y medio ambiente para el desarrollo del Sistema de gestión SSOMA.
+- Monitorear el desempeño en materia de SSOMA de las diferentes áreas de la empresa a fin de prevenir los accidentes de trabajo y/o deterioro de la salud de los trabajadores.
+- Asesorar acciones para minimizar los riesgos SSOMA en las diferentes áreas de la organización.
+- Monitorear, dirigir y controlar a todo el personal que labora bajo su cargo.
+
+4. **Funciones Específicas:**
+- Elaborar y proponer procedimientos, instructivos y protocolos de SSO para la ejecución de actividades de prevención y protección de la seguridad y salud de los trabajadores de la empresa.AEI S.R.L.
+- Elaborar y proponer el plan anual de seguridad y medio ambiente de la empresa.
+- Elaborar y proponer el plan anual de capacitación en SSOMA de la empresa.
+- Elaborar y proponer la matriz de objetivos, metas y programas de SSOMA de la empresa y verificar su respectivo cumplimiento.
+- Recomendar los EPP básicos y específicos para cada actividad que se realice en la empresa tanto en las instalaciones propias como en las instalaciones de nuestros distintos clientes a nivel nacional.
+- Elaborar las estadísticas mensuales y anuales de seguridad y salud ocupacional de la empresa (índices de accidentabilidad entre otros).
+- Elaborar y proponer el procedimiento de investigación de incidentes y accidentes de trabajo.
+- Participar y asesorar en la investigación de incidentes y accidentes de trabajo de nuestro personal producidos en las instalaciones propias de la empresa y los que ocurrieran en los servicios a desarrollar en las instalaciones de nuestros distintos clientes a nivel nacional.
+- Elaborar y proponer la matriz de identificación de requisitos legales aplicables a la empresa en materia de seguridad, salud ocupacional y medio ambiente.
+- Elaborar y proponer la política de SSOMA de la empresa.
+- Elaborar y proponer el procedimiento y la matriz IPERC propios de la empresa, así como elaborar y gestionar la aprobación de la matriz IPERC de cada servicio a desarrollar en las instalaciones de nuestros distintos clientes a nivel nacional.
+- Elaborar y proponer el plan de respuesta a emergencia propia de la empresa, así como elaborar y gestionar la aprobación del plan de contingencia y/o emergencia específico para cada servicio, a desarrollar en las instalaciones de nuestros clientes a nivel nacional.
+- Elaborar y proponer el procedimiento y la matriz IAEIA propios de la empresa, así como elaborar y gestionar la aprobación de la matriz IAEIA de cada servicio a desarrollar en las instalaciones de nuestros distintos clientes a nivel nacional.
+- Solicitar, evaluar y recomendar la contratación de empresas especialistas para la realización de los monitoreos de los 5 agentes ocupacionales en las instalaciones propias de la empresa (exigidas por el MINTRA).
+- Solicitar la contratación de empresas especialistas para la realización de las auditorías al Sistema de Gestión de Seguridad y Salud en el Trabajo propio de la empresa (exigidas por el MINTRA).
+- Solicitar la contratación de médicos especialistas para la elaboración y seguimiento del plan anual de vigilancia médica propia de la empresa (exigidas por el MINTRA).
+- Solicitar la contratación de una clínica especialista para realizar los exámenes médicos ocupacionales (ingreso, periódico y retiro) a todos los trabajadores de la empresa (exigidas por el MINTRA).
+- Solicitar la contratación de empresas operadoras de residuos sólidos para que se encarguen, del transporte y disposición final de los residuos generados por la empresa tanto en las instalaciones propias como en las instalaciones de nuestros distintos clientes a nivel nacional (exigidas por la OEFA).
+- Solicitar el mantenimiento de los equipos de respuesta a emergencia (luces de emergencias, extintores, central de alarma contra incendio, etc).
+
+5. **Lista de Distribución:**
+G, GC, GO, GT, GA, GAT, GSS, GSA, GCV, GOT, GOL, GTI, GTX, GTQ, GAAP.
