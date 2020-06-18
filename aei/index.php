@@ -21,7 +21,7 @@
 <html>
 <head>
 	<title>
-		Como subir archivos - PHP por José Parra
+		Archivos AEI
 	</title>
 	<meta charset="utf-8">
 	<meta description="Subir archivos en PHP por José Parra">
@@ -41,12 +41,13 @@
 							if ($archivo != '.' && $archivo != '..'){
 								//este div es para darle caché y que se vea bien en todos los dispositivos. son clases del nuevo bootstrap -> framewrok css
 								//echo '<div class="col-sm-3 col-xs-12">';
-								echo '<div class="col-sm-3 col-xs-12">';
+								echo '<div class="col-sm-5 col-xs-12">';
 									//echo "Archivo: <strong>$archivo</strong><br />";
 									//echo '<img src="'.$directorio.'/'.$archivo.'" title="imagen" alt="imagen"/>';
 									 $ruta_archivo = $directorios.$archivo."";
 									//$ruta_archivo = "./archivos/".$archivo."";
-									echo "<a href='$ruta_archivo'>Archivo: $archivo</a>";
+									
+									echo "<a href='$ruta_archivo' target='_blank'>$archivo</a>";
 
 								echo '</div>';
 							}
@@ -57,12 +58,12 @@
 			</div>
 		</div>
 
-		<h1>Selecciona tu archivo</h1>
+		
 		<form method="post" action="" enctype="multipart/form-data">
 			<div class="form-group">
 				
 				
-				<small id="fileHelp" class="form-text text-muted">Archivos permitidos (.jpg .png .gif)</small>
+				
 			</div>
 			
 	</div>
